@@ -1,0 +1,15 @@
+{
+  "name": "introspection-to-sdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefano Verna",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "node-fetch": "^2.0.0"
+  }
+}
